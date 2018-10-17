@@ -1,4 +1,4 @@
-ans="Yes"
+answer="Yes"
 loop do
 
 puts "Enter your first number"
