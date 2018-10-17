@@ -13,13 +13,13 @@ operator=gets.chomp
 if operator=="+"
 puts a+b
 
-elseif operator=="-"
+elsif operator=="-"
 puts a-b
 
-elseif operator=="*"
+elsif operator=="*"
 puts a*b
 
-elseif operator=="/"
+elsif operator=="/"
 puts a/b
 
 else 
